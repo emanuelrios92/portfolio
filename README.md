@@ -5,12 +5,23 @@ This is my personal portfolio project, showcasing my skills as a front-end devel
 # Introduction
 Welcome to my portfolio! I'm Emanuel RIos, a passionate front-end developer based in Brazil. This project serves as a platform to introduce myself, share my experiences, and connect with potential collaborators and employers. Whether you're an entrepreneur looking to bring your ideas to life or a fellow developer interested in collaboration, I'm excited to connect and explore opportunities together.
 
+![image](https://github.com/emanuelrios92/portfolio/assets/110246857/21471d73-6572-4f91-980d-df0ee5aa5ca7)
+
+
 Project Structure
 index.html: This file contains a brief introduction about me and an invitation to collaborate. It also includes links to my social media profiles.
 
 about.html: Here, you'll find a more detailed resume about myself, including my passions, experiences, and skills.
 
 mycv.html: This document contains a resume of my curriculum vitae (CV), providing a comprehensive overview of my education, work history, and technical proficiencies.
+
+Used in this project:
+
+HTML
+
+CSS
+
+Flexbox
 
 # Features
 Responsive Design: The portfolio website is responsive and adapts to different screen sizes, ensuring optimal viewing experience across devices.
