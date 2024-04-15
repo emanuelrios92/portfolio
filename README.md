@@ -28,8 +28,8 @@ Responsive Design: The portfolio website is responsive and adapts to different s
 
 Media Queries: Media queries are implemented to adjust the layout and styling based on the device's screen size, enhancing usability and accessibility.
 
-# Usage
-To view the portfolio, simply open the respective HTML files in your web browser. Feel free to explore the different sections and reach out to me through the provided contact details if you have any inquiries or opportunities to discuss.
+Project URL:
+[https://emanuelrios92.github.io/portfolio/]
 
 # Feedback and Contributions
 I welcome feedback and suggestions for improvement! If you notice any issues or have ideas to enhance the portfolio, please don't hesitate to create an issue or submit a pull request. Your contributions are greatly appreciated.
